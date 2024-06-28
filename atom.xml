@@ -6,7 +6,7 @@
   <link href="https://richardlaiis.github.io/atom.xml" rel="self"/>
   
   <link href="https://richardlaiis.github.io/"/>
-  <updated>2024-06-22T06:35:40.399Z</updated>
+  <updated>2024-06-28T08:36:31.500Z</updated>
   <id>https://richardlaiis.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-summer-target</title>
+    <link href="https://richardlaiis.github.io/2024/06/28/2024-summer-target/"/>
+    <id>https://richardlaiis.github.io/2024/06/28/2024-summer-target/</id>
+    <published>2024-06-28T08:20:42.000Z</published>
+    <updated>2024-06-28T08:36:31.500Z</updated>
+    
+    <content type="html"><![CDATA[<p>感覺自己暑假過了快一個月，卻花了很多時間在浪費人生 (打遊戲、找家教)。希望把目標打出來惕厲自己！並付諸實行。</p><h2 id="資訊類"><a class="markdownIt-Anchor" href="#資訊類"></a> 資訊類</h2><ol><li>Javascript 及相關的東西 (React、Express)</li><li>C/C++ 語法精熟 (把劉邦鋒的書看完)</li><li>Python 語法精熟及應用 (Flask、OOP、pwntools和numpy等套件)</li><li>確實完成 Google 資安課程 (coursera)</li></ol><h2 id="其他類"><a class="markdownIt-Anchor" href="#其他類"></a> 其他類</h2><h3 id="可能達到的"><a class="markdownIt-Anchor" href="#可能達到的"></a> 可能達到的</h3><ol><li>學會騎車</li><li>搞懂 Haskell 和 FP 在幹麻</li><li>讀完線性代數</li><li>(盡量)讀完手邊的書籍</li><li>學會倉頡輸入法 (受夠注音選字地獄)</li><li>加強英聽 (試著聽英文新聞、YTR)，也多背點托福單字</li></ol><h3 id="有點難度"><a class="markdownIt-Anchor" href="#有點難度"></a> 有點難度</h3><ol><li>感覺素描蠻有趣的，練練看好了</li><li>減重至 60kg 以下</li></ol><h2 id="幻想類"><a class="markdownIt-Anchor" href="#幻想類"></a> 幻想類</h2><ol><li>賺到 5 萬</li><li>交到女/男友</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;感覺自己暑假過了快一個月，卻花了很多時間在浪費人生 (打遊戲、找家教)。希望把目標打出來惕厲自己！並付諸實行。&lt;/p&gt;
+&lt;h2 id=&quot;資訊類&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#資訊類&quot;&gt;&lt;/a&gt; 資訊類&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="Life" scheme="https://richardlaiis.github.io/tags/Life/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
